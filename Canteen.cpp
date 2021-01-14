@@ -1,3 +1,5 @@
+//Novo comentário
+
 #include "Canteen.h"
 
 void Canteen::NewCantine() {
